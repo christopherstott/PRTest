@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/christopherstott/PRTest/issues"
   },
-  "homepage": "https://github.com/christopherstott/PRTest#readme"
+  "homepage": "https://github.com/christopherstott/PRTest#readme",
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
 }
